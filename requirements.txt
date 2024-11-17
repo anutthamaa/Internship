@@ -1,0 +1,7 @@
+pandas
+nltk
+bs4
+requests
+asyncio
+aiohttp
+#-e .
